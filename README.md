@@ -1,4 +1,7 @@
 # 2048-javascript
+
+<img src="C:\Users\HP\Desktop\2048-javascript\images\funsho2048.jpg" alt="Alt text" title="Optional title">
+
 In this article, we have demonstrated how to develop web version of 2048 game using JavaScript, HTML and CSS. This is a good project for a Web Developer Portfolio.
 
 Table of Contents:
